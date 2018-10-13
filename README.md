@@ -5,7 +5,7 @@
 Clone репозиторий через git clone (address):
 
 ```
-https://github.com/mir-one/bobry.git
+https://github.com/mir-one/event.git
 ```
 
 Отредактируйте параметры параметры конфигуратора генезиса сети src/test/resources/genesis.example.conf, для примера используйте это:
